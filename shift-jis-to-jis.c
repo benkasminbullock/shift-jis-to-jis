@@ -60,7 +60,8 @@ shift_jis_to_jis (const unsigned char * may_be_shift_jis,
             jis_first += 1;
             status = 1;
         }
-    } else {
+    }
+    else {
 #ifdef DEBUG
         printf ("Fail on first byte\n");
 #endif
