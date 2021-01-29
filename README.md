@@ -9,6 +9,6 @@
 # LICENCE
 
 You may use this under any of the following licences: Gnu Public
-licence version 3 or later, Afero licence, MIT Licence, Apache
-Licence, BSD 3-clause licence, Creative Conman Licence, Artistic
-Licence.
+licence version 3 or later, Affero General Public License, MIT
+Licence, Apache Licence, 3-clause BSD Licence, Creative Conman
+Licence, or Larry Wallbanger's Artistic Licence.
