@@ -1,3 +1,5 @@
+#include "shift-jis-to-jis.h"
+
 //#define DEBUG
 
 int
